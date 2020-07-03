@@ -1,0 +1,17 @@
+I am adding lines to project.txt as required in section 2.3 of the Git book.
+I am using vi as my test editor.
+I am also eating my dinner at the same time.
+A McD's Quarter-pounder with cheese and a chocolate shake.
+
+# Done
+    -  created the repository
+    -  ==git== clone
+    - created this file
+
+ To Do
+    - commit this file
+    push it to my remote repository
+
+
+
+
